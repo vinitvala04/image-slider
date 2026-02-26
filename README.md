@@ -34,7 +34,7 @@ image-slider/
 
 Download or clone the repository
 
-git clone https://github.com/your-username/image-slider.git
+git clone https://github.com/vinitvala04/image-slider
 
 Open index.html in your browser
 
